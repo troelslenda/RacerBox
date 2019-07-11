@@ -1,0 +1,6 @@
+{
+    "sketch": "RacerBox.ino",
+    "port": "/dev/ttyACM0",
+    "board": "arduino:avr:leonardo",
+    "programmer": "AVR ISP"
+}
